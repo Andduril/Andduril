@@ -2,7 +2,7 @@
 
 <h3 align="center">i'm a 20 years old student in Amiens, France. I study computer science</h3>
 
-- 🔭 I’m currently working on [UNO](https://github.com/Andduril/Uno)
+<!-- - 🔭 I’m currently working on [UNO](https://github.com/Andduril/Uno)-->
 
 - 🌱 I’m currently learning **NestJs and Angular**
 
