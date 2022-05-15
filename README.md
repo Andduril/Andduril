@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on [UNO](https://github.com/Andduril/Uno)-->
 
-- 🌱 I’m currently learning **NestJs and Angular**
+- 🌱 I’m currently learning **React-native**
 
 - 📫 How to reach me **labrut.anddy@gmail.com**
 
