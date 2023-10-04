@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-<h3 align="center">i'm a 21 years old student in Amiens, France. I study computer science</h3>
+<h3 align="center">i'm a 22 years old student in Amiens, France. I study computer science</h3>
 
 <!-- - 🔭 I’m currently working on [a small gravity application](https://github.com/Andduril/gravitax)-->
 
