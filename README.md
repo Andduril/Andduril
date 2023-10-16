@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on [a small gravity application](https://github.com/Andduril/gravitax)-->
 
-- 🌱 I’m currently learning **React** and **TypeScript**
+- 🌱 I’m currently learning **React** and **.NET**
 
 - 📫 How to reach me **labrut.anddy@gmail.com**
 
