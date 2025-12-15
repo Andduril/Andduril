@@ -63,10 +63,9 @@ I enjoy working close to the metal when it makes sense, and I don't blindly foll
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [lien]
-- 🌐 Portfolio: [lien]
-- 📧 Email: [email]
-
+- 💼 LinkedIn: [https://www.linkedin.com/in/anddy-labrut/](https://www.linkedin.com/in/anddy-labrut/)
+- 🌐 Portfolio: [anddy-labrut.fr](https://anddy-labrut.fr) 
+- 📧 Email: labrut.anddy@gmail.com
 ---
 
 > *“Simple is better than clever. Maintainable is better than trendy.”*
