@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Anddy
 
-💻 **Freelance Full-Stack Developer** — 24 years old  
+💻 **Full-Stack Developer** — 24 years old  
 📍 Based in France — working remotely
 
 ---
 
 ## 🚀 About me
 
-I'm a **freelance full-stack developer** specialized in building **robust, performant, and maintainable web applications**.
+I'm a **full-stack developer** specialized in building **robust, performant, and maintainable web applications**.
 
 I have a strong focus on:
 - clean architecture  
@@ -63,9 +63,5 @@ I enjoy working close to the metal when it makes sense, and I don't blindly foll
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/anddy-labrut/](https://www.linkedin.com/in/anddy-labrut/)
-- 🌐 Portfolio: [anddy-labrut.fr](https://anddy-labrut.fr) 
 - 📧 Email: labrut.anddy@gmail.com
 ---
-
-> *“Simple is better than clever. Maintainable is better than trendy.”*
